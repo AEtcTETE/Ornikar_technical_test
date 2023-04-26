@@ -3,7 +3,7 @@ const { I } = inject();
 export = {
 
   // locators
-  constructeursButton: '#footer_about',
+  constructeursButton: '#/assurance-auto/constructeurs',
   constructeursPageContent: '//div[contains(@class,"listeContent")]//p[1]',
 
   // methods

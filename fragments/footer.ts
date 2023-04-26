@@ -1,9 +1,9 @@
-const { I, navigationFragment, mainPage, aboutPage, responsibleGamingPage } = inject();
+const { I, navigationFragment, mainPage, administratifPage, categorieVehiculePage, constructeursPage, couverturePage,indemnisationPage,jeuneConducteurPage,sinistrePage,souscriptionPage } = inject();
 
 export = {
 
     // data
-    footerApiUrlPath: 'https://www.ornikar.com/assurance-auto',
+    //footerApiUrlPath: 'https://www.ornikar.com/assurance-auto',
 
     // locators
 

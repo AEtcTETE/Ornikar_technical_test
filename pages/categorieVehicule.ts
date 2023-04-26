@@ -3,7 +3,7 @@ const { I } = inject();
 export = {
 
   // locators
-  categorieVehiculeButton: '#footer_about',
+  categorieVehiculeButton: '#/assurance-auto/type-vehicule',
   categorieVehiculePageContent: '//div[contains(@class,"listeContent")]//p[1]',
 
   // methods
