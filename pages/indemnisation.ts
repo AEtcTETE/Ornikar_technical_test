@@ -4,7 +4,7 @@ export = {
 
   // locators
   indemnisationButton: '#/assurance-auto/indemnisation',
-  indemnisationPageContent: '//div[contains(@class,"listeContent")]//p[1]',
+  indemnisationPageContent: '//div[contains(tbd)',
 
   // methods
 

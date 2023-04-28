@@ -4,7 +4,7 @@ export = {
 
   // locators
   constructeursButton: '#/assurance-auto/constructeurs',
-  constructeursPageContent: '//div[contains(@class,"listeContent")]//p[1]',
+  constructeursPageContent: '//div[contains(tbd)',
 
   // methods
 

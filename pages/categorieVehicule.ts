@@ -4,7 +4,7 @@ export = {
 
   // locators
   categorieVehiculeButton: '#/assurance-auto/type-vehicule',
-  categorieVehiculePageContent: '//div[contains(@class,"listeContent")]//p[1]',
+  categorieVehiculePageContent: '//div[contains(tbd)',
 
   // methods
 

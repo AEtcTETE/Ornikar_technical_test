@@ -4,7 +4,7 @@ export = {
 
   // locators
   administratifButton: '#/assurance-auto/administratif',
-  administratifPageContent: '//div[contains(@class,"listeContent")]//p[1]',
+  administratifPageContent: '//div[contains(tbd)]',
 
   // methods
 
